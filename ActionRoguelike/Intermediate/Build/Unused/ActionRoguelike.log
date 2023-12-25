@@ -1,0 +1,22 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (F:\github_project\ActionRoguelike).
+  Creating makefile for ActionRoguelikeEditor (no existing makefile)
+  Parsing headers for ActionRoguelikeEditor
+    Running UnrealHeaderTool "F:\github_project\ActionRoguelike\ActionRoguelike\ActionRoguelike.uproject" "F:\github_project\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\ActionRoguelikeEditor\Development\ActionRoguelikeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\flux_user\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for ActionRoguelikeEditor in 2.8828209 seconds
+  Building ActionRoguelikeEditor...
+  Using Visual Studio 2019 14.29.30153 toolchain (F:\vs2019\VC\Tools\MSVC\14.29.30133) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 9 actions with 24 processes...
+    [1/9] Default.rc2
+    [2/9] SharedPCH.Engine.ShadowErrors.cpp
+    [3/9] ActionRoguelike.cpp
+    [4/9] ActionRoguelikeGameModeBase.cpp
+    [5/9] ActionRoguelike.init.gen.cpp
+    [6/9] ActionRoguelikeGameModeBase.gen.cpp
+    [7/9] UE4Editor-ActionRoguelike.lib
+      正在创建库 F:\github_project\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\UE4Editor-ActionRoguelike.lib 和对象 F:\github_project\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\UE4Editor-ActionRoguelike.exp
+    [8/9] UE4Editor-ActionRoguelike.dll
+      正在创建库 F:\github_project\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\UE4Editor-ActionRoguelike.suppressed.lib 和对象 F:\github_project\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\UE4Editor-ActionRoguelike.suppressed.exp
+    [9/9] ActionRoguelikeEditor.target
+  Total time in Parallel executor: 13.83 seconds
+  Total execution time: 18.10 seconds

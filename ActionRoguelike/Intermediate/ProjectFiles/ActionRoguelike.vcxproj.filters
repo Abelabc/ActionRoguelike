@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ActionRoguelike.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{53DF90CA-C71A-4111-9A07-2B9BFEA9E10C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionRoguelike.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ActionRoguelikeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5AEF6001-1E90-4DBB-877E-70484C4651E9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ActionRoguelike">
+      <UniqueIdentifier>{E194ED34-9739-4F44-B03B-55EEC2325777}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionRoguelike\ActionRoguelike.Build.cs">
+      <Filter>Source\ActionRoguelike</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ActionRoguelike\ActionRoguelike.cpp">
+      <Filter>Source\ActionRoguelike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ActionRoguelike\ActionRoguelike.h">
+      <Filter>Source\ActionRoguelike</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ActionRoguelike\ActionRoguelikeGameModeBase.cpp">
+      <Filter>Source\ActionRoguelike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ActionRoguelike\ActionRoguelikeGameModeBase.h">
+      <Filter>Source\ActionRoguelike</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

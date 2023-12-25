@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ActionRoguelike.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\github_project\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\ActionRoguelikeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\github_project\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\ActionRoguelike.cpp.obj"
+"F:\github_project\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\ActionRoguelikeGameModeBase.cpp.obj"
+"F:\github_project\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\ActionRoguelike.init.gen.cpp.obj"
+"F:\github_project\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\ActionRoguelikeGameModeBase.gen.cpp.obj"
+"F:\github_project\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\Default.rc2.res"
+/OUT:"F:\github_project\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\UE4Editor-ActionRoguelike.lib"
